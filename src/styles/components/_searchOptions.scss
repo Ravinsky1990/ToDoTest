@@ -1,0 +1,19 @@
+.searcOptions{
+    border-radius: 3px;
+    width: 200px;
+    color: $off-black;
+    border: none;
+    outline:none;
+    border-bottom: .3rem solid darken($dark_blue, 10%);
+    padding: $s-size 0 $s-size $s-size;
+    margin-bottom: $s-size;
+    background-color: $off-white;
+}
+.searchHeader{
+    color: $off-white;
+    font-size: $m-size;
+    font-weight: 500;
+    margin: 0 0 $s-size 0;
+    text-transform: uppercase;
+
+}
